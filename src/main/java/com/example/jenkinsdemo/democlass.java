@@ -10,7 +10,7 @@ public class democlass {
 
     @GetMapping("/demo")
     public String getdemo(){
-        return "hello lenkins I am learning you ";
+        return "hello Jenkins is now Running ,I am learning you ";
     }
 
 
